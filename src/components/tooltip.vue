@@ -16,12 +16,12 @@ export default {
 
 <style lang="less">
 .tooltip{
-  @bg: rgba(0, 0, 0, .7);
-  @arrow-width: 5px;
-  @padding-top-bottom: 2px;
+  @bg: rgba(0, 0, 0, .7); //背景
+  @arrow-width: 5px; //箭头宽度
+  @padding-top-bottom: 2px; 
   @padding-left-right: 4px;
-  @radius: 2px;
-  @font-size: 14px;
+  @radius: 2px; //圆角
+  @font-size: 14px; //文字大小
 
   position: relative;
 
